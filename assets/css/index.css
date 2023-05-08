@@ -247,7 +247,7 @@
     border-radius: 10px;
 }
 
-.footer-box {
+.width-900 {
     width: 900px;
 }
 
@@ -293,10 +293,6 @@
     top: 0;
     left: -10px;
     z-index: 1;
-}
-
-.transform {
-    transform: rotate(180deg);
 }
 
 .accordion {
